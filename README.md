@@ -16,10 +16,10 @@ These,websites showed me how to make and code the game.
 
 * [Godot Forum](https://forum.godotengine.org)
 * [Godot Docs](docs.godotengine.org/en/stable/index.html)
-* 
+  
 # Future Work
 As you can tell, the gameis incomplete. So, outside of story, gameplay, and the world overall, here are some things I plan to do to improve the game.
 
-Fix the camera
-Add more Movements
-Make damage or inventory
+* Fix the camera
+* Add more Movements
+* Make damage or inventory
